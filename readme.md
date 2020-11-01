@@ -50,7 +50,7 @@ Technologies that I used to develop this application
 ## 💻 Getting started
 
 ```bash
-$ git clone https://github.com/haryelramalho/nlw3-happy.git && cd nlw-3
+$ git clone https://github.com/haryelramalho/nlw3-happy.git && cd nlw3-happy
 ```
 
 ### Requirements

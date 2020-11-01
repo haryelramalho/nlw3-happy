@@ -49,17 +49,15 @@ Technologies that I used to develop this application
 
 ## 💻 Getting started
 
-Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomniaButton) button
+```bash
+$ git clone https://github.com/haryelramalho/nlw3-happy.git && cd nlw-3
+```
 
 ### Requirements
 
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/)
 - [Expo](https://expo.io/)
-
-```bash
-$ git clone https://github.com/haryelramalho/nlw3-happy.git && cd nlw-3
-```
 
 **Follow the steps below**
 
@@ -127,7 +125,7 @@ $ gh repo fork haryelramalho/nlw3-happy
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd nlw-3
+$ git clone your-fork-url && cd nlw3-happy
 
 # Create a branch with your feature
 $ git checkout -b my-feature
